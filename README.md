@@ -1,3 +1,3 @@
 # Todo-List DEMO:
 
-https://masterkors.github.io/Todo-List/.
+RUN DEMO: https://usernamekors.github.io/Todo-List/
